@@ -1,0 +1,15 @@
+blue_cup
+plant
+water_bottle
+mixed_nuts
+pink_cup
+yellow_biscuits
+spray
+green_drink
+orange_drink
+orange_biscuits
+ketchup
+oolong_tea
+water_bottle
+tomato
+mixed_nuts
